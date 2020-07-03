@@ -7,7 +7,8 @@ https://github.com/diracdeltas/spleeter4max/releases/download/1.4-native/spleete
 
 Extract it somewhere you can remember.
 
-### Install Choco todo
+### Install Choco 
+
 Installing the choco package manager removes any chance of you having to do anything manual / install other pre-requirements for that software. The packages come with installations tasks that install other things that might be needed. Hence why were using it here as its more or less fool proof.
 
 Open Powershell --> Run As Administrator
