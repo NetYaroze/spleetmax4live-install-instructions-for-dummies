@@ -113,5 +113,7 @@ Done. If no errors printed, you might be good to go! Make sure Ableton is 10.1+ 
 4. Load a clip into an Audio Channel with spleeter. 
 5. Click Start
 
+This will create a folder in the folder where spleeter is running from  (where you extracted).
+You should then see the files.
+
 This should work. If it doesnt hit me up. 
-# spleetmax4live-install-instructions-for-dummies
